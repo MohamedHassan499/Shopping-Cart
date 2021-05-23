@@ -1,6 +1,7 @@
 # Motivation
 
-This project was finished during taking the "React.js basics" course on "Mahara-tech"
+This project was finished during taking the "React.js basics" course on "Mahara-tech" <br>
+<a href="https://my-shopping-cart.vercel.app/cart"> Live Preview </a>
 
 
 # Getting Started with Create React App
